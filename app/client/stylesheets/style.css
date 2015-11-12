@@ -1,3 +1,15 @@
-body {
-  padding-top: 70px;  /* Move body of page below navbar. */
+body, footer {
+  font-family: "Open Sans", sans-serif;
+}
+
+.header-image {
+  background-image: url('/images/cover.jpg');
+  background-size: cover;
+  height: 240px;
+
+}
+
+.navbar {
+  border-radius: 0px;
+
 }
